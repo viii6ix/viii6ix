@@ -18,7 +18,8 @@
 <section>
 <div align="center">
   
-   <img src="https://i.pinimg.com/originals/a8/02/2f/a8022ff27f7fafc4bcfa6436ed99a494.gif" width="100"/>[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=viii6ix&theme=horizon&hide_border=true&fire=EBA03B&sideNums=FAF0EB&stroke=95735C&currStreakNum=F9D4C0&background=18385A&sideLabels=3F8EDB)](https://git.io/streak-stats)
+
+   <img src="https://github.com/viii6ix/viii6ix/assets/108586645/9536f2fa-0121-47a0-8bef-44122f58cf69" width="100"/>[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=viii6ix&theme=horizon&hide_border=true&fire=EBA03B&sideNums=FAF0EB&stroke=95735C&currStreakNum=F9D4C0&background=18385A&sideLabels=3F8EDB)](https://git.io/streak-stats)
  <img src="https://i.pinimg.com/originals/a8/02/2f/a8022ff27f7fafc4bcfa6436ed99a494.gif" width="100"/>
   
 <!-- [
