@@ -11,10 +11,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="60" height="60"/>&nbsp;
 </div>
-  <div align="center">
-  <a href="https://www.sololearn.com/profile/9192863"><img src="https://logowik.com/content/uploads/images/sololearn4083.logowik.com.webp" title="SoloLearn" alt="SoloLearn logo" width="80" height="60"/>&nbsp;</a>
-  <a href="https://www.freecodecamp.org/viii6ix"><img src="https://design-style-guide.freecodecamp.org/downloads/fcc_secondary_small.svg" title="freeCodeCamp" alt="freeCodeCamp logo" width="70" height="60"/>&nbsp;</a>
-</div>
 </section>
 
 ---
