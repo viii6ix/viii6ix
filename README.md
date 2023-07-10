@@ -19,8 +19,8 @@
 <div align="center">
   
 
-   <img src="https://github.com/viii6ix/viii6ix/assets/108586645/9536f2fa-0121-47a0-8bef-44122f58cf69" width="100"/>[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=viii6ix&theme=horizon&hide_border=true&mode=weekly&fire=EBA03B&sideNums=FAF0EB&stroke=95735C&currStreakNum=F9D4C0&background=18385A&sideLabels=3F8EDB)](https://git.io/streak-stats)
- <img src="https://i.pinimg.com/originals/a8/02/2f/a8022ff27f7fafc4bcfa6436ed99a494.gif" width="100"/>
+   <img src="https://github.com/viii6ix/viii6ix/assets/108586645/0b2c8190-7cd7-4392-8a14-b69d4557dcbd" title="MSHSFChun" alt="MSHSFChun"/>[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=viii6ix&theme=horizon&hide_border=true&mode=weekly&fire=EBA03B&sideNums=FAF0EB&stroke=95735C&currStreakNum=F9D4C0&background=18385A&sideLabels=3F8EDB)](https://git.io/streak-stats)
+ <img src="https://github.com/viii6ix/viii6ix/assets/108586645/83fd0f91-2cdf-4d9c-8934-43376c33d2a6" title="XMVSFDhalsim" alt="XMVSFDhalsim"/>
   
 <!-- [
   "background" => "#18385A",
