@@ -4,37 +4,20 @@
 
 ---
 
-<section>
-  <div align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="60" height="60"/>&nbsp;
-</div>
-</section>
+
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=viii6ix&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=viii6ix&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=viii6ix&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=viii6ix&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=viii6ix&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=viii6ix&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<section>
-<div align="center">
-  
-
-   <img src="https://github.com/viii6ix/viii6ix/assets/108586645/0b2c8190-7cd7-4392-8a14-b69d4557dcbd" title="MSHSFChun" alt="MSHSFChun"/>[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=viii6ix&theme=horizon&hide_border=true&mode=weekly&fire=EBA03B&sideNums=FAF0EB&stroke=95735C&currStreakNum=F9D4C0&background=18385A&sideLabels=3F8EDB)](https://git.io/streak-stats)
- <img src="https://github.com/viii6ix/viii6ix/assets/108586645/83fd0f91-2cdf-4d9c-8934-43376c33d2a6" title="XMVSFDhalsim" alt="XMVSFDhalsim"/>
-  
-<!-- [
-  "background" => "#18385A",
-  "border" => "#1C1E26",
-  "stroke" => "#95735C",
-  "ring" => "#E95678",
-  "fire" => "#EBA03B",
-  "currStreakNum" => "#F9D4C0",
-  "sideNums" => "#FAF0EB",
-  "currStreakLabel" => "#23BD87",
-  "sideLabels" => "#3F8EDB",
-  "dates" => "#FAB795",
-  "excludeDaysLabel" => "#FAB795",
-] -->
-</div>
-
-</section>
